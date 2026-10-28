@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Riya Patel",
+    "section": "",
+    "text": "Welcome! I am a data analyst pursuing an M.S. in Biomedical and Health Informatics at Case Western Reserve University. I have more than two years of experience working with SQL, Excel, and financial and business data, and I hold an MBA and an M.S. in Information Systems from Cleveland State University.\nRight now, I work as a Data Entry Specialist at LP Tax & Accounting, where I verify client financial and tax data and am building a centralized database for the firm’s 800+ business and personal tax clients. In my graduate program, I am learning biostatistics and reproducible research with R and Quarto. I am especially interested in clinical electronic health record (EHR) systems and the data they generate: how it is captured, structured, and used to support care and research.\nI am currently looking for an internship or part-time research opportunity in health informatics, and I am also open to data analytics roles, ideally in the Cleveland area. If your team works in this space, I would welcome the chance to connect."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Riya Patel",
+    "section": "",
+    "text": "Welcome! I am a data analyst pursuing an M.S. in Biomedical and Health Informatics at Case Western Reserve University. I have more than two years of experience working with SQL, Excel, and financial and business data, and I hold an MBA and an M.S. in Information Systems from Cleveland State University.\nRight now, I work as a Data Entry Specialist at LP Tax & Accounting, where I verify client financial and tax data and am building a centralized database for the firm’s 800+ business and personal tax clients. In my graduate program, I am learning biostatistics and reproducible research with R and Quarto. I am especially interested in clinical electronic health record (EHR) systems and the data they generate: how it is captured, structured, and used to support care and research.\nI am currently looking for an internship or part-time research opportunity in health informatics, and I am also open to data analytics roles, ideally in the Cleveland area. If your team works in this space, I would welcome the chance to connect."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Riya Patel",
+    "section": "Education",
+    "text": "Education\nCase Western Reserve University | Cleveland, OH\nM.S. in Biomedical and Health Informatics (in progress) | Aug 2026 – Present\nCleveland State University | Cleveland, OH\nMaster of Business Administration (MBA), Digital Marketing | Aug 2024 – May 2026\nCleveland State University | Cleveland, OH\nM.S. in Information Systems, Business Analytics | Jan 2022 – Aug 2023\nUnited States International University – Africa | Nairobi, Kenya\nB.S. in Applied Computer Technology, Minor in Management | May 2017 – Aug 2021"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Riya Patel",
+    "section": "Experience",
+    "text": "Experience\nData Entry Specialist | LP Tax & Accounting, Willoughby Hills, OH | Apr 2026 – Present\n\nBuilding a centralized client database in Microsoft Access and SQL covering 800+ business and personal tax clients, giving the firm one organized place to access client information and laying the foundation for its project to integrate AI tools into the accounting workspace\nEnter and verify client financial and tax data, identifying and resolving discrepancies\nMaintain organized digital records that support billing accuracy and compliance\nUse AI-assisted tools to streamline routine data entry and document review\n\nMarketing Intern | OneThirtyFive, Cleveland, OH | Sept 2025 – Dec 2025\n\nReviewed recorded business development calls and produced written analysis of patterns across them\nPresented findings and recommendations to internal stakeholders across marketing and sales\n\nData Analyst | Proximate Technologies Inc, Plano, TX (Remote) | Sept 2023 – July 2024\n\nQueried, analyzed, and corrected data using SQL and Excel to support accurate business reporting\nBuilt and maintained spreadsheets and summaries that tracked key metrics for internal stakeholders\nMaintained data records and resolved discrepancies\n\nIS&T Support Assistant | Cleveland State University, Cleveland, OH | June 2022 – Aug 2023\n\nProvided front-line technical support for university IT systems to students, faculty, and staff\nTroubleshot hardware and software issues, escalated complex cases through the ticketing system, and kept accurate records of requests and outcomes\n\nEarlier Experience\n\nNetwork Administrator Intern | MITSUMI Distribution, Nairobi, Kenya (Remote) | Jan 2019 – Sept 2021\nAccounts Receivable Analyst | Mahi Supermarket Ltd, Narok, Kenya | Jan 2016 – Dec 2019"
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "Riya Patel",
+    "section": "Certifications",
+    "text": "Certifications\n\nDatabase Structures and Management with MySQL | Meta | Jan 2024\nIntroduction to Databases | Meta | Jan 2024\nFoundations of Project Management | Google | Jan 2024\nMarketing: Google Ads Search and Display Certifications (Google Skillshop, Nov 2025); Social Media Marketing, How to Use Hootsuite, and Social Listening with Hootsuite (Hootsuite Academy, Sept 2025)"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Riya Patel",
+    "section": "Skills",
+    "text": "Skills\n\nData and analytics: SQL (MySQL), Microsoft Access, Python, R, Quarto, natural language processing, database design, data analysis and reporting, data verification and error correction\nBusiness and finance: accounts receivable, cash flow tracking, financial data entry, record-keeping\nProject management: project planning and coordination\nTools: Microsoft Office (Excel, Word, PowerPoint, Outlook), Canva, and AI tools (Claude, ChatGPT, Microsoft Copilot)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my CV (PDF)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Centralized Client Database (LP Tax & Accounting)\n2026 – Present | Microsoft Access, SQL, database design\nI am building a centralized database in Microsoft Access and SQL that brings together records for more than 800 business and personal tax clients, giving the team one organized place to access client information. This database is an essential foundation for the firm’s next project: integrating AI tools into its accounting workspace.\n\n\nBusiness Development Call Analysis (OneThirtyFive)\nFall 2025 | Qualitative analysis, presentation\nI reviewed recorded business development calls, identified patterns across them, and turned my findings into recommendations for the marketing and sales teams.\n\n\nNatural Language Processing in Python\nPython, TextBlob, NLTK, Tweepy, pandas, matplotlib\nIn a Jupyter notebook, I worked through core natural language processing techniques: tokenization, part-of-speech tagging, sentiment analysis with both TextBlob’s default analyzer and a Naive Bayes classifier, language detection and translation, spell checking, and lemmatization. I analyzed word frequencies in Romeo and Juliet and visualized the most common words with a bar chart and a word cloud. I also used the Twitter API to collect and search live tweets, automatically translating non-English tweets into English.\nView the notebook on GitHub"
+  }
+]
